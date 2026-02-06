@@ -32,8 +32,8 @@ WIP
 ---
 
 ## 📫 How to reach me
-- **Email:** [your-email@gmail.com](mailto:zohaibmuhammad08l@gmail.com)    
-- **LinkedIn:** [linkedin.com/in/zohaib](https://linkedin.com/in/zm08)
+- **Email:** [zohaibmuhammad08@gmail.com](mailto:zohaibmuhammad08l@gmail.com)    
+- **LinkedIn:** [linkedin.com/in/zm08](https://linkedin.com/in/zm08)
 
 ---
 
