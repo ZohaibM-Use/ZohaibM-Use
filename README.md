@@ -3,6 +3,12 @@
 I'm a **Computer Science student** passionate about **Cybersecurity, Data Analysis, and Software Development**.  
 I love solving real-world problems through code, analyzing data, and building secure systems.
 
+<!-- Badges -->
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ## 🔭 Current Focus
@@ -13,28 +19,21 @@ I love solving real-world problems through code, analyzing data, and building se
 ---
 
 ## 🌱 Skills & Technologies
-- **Languages:** Java, Python, SQL, JavaScript  
-- **Cybersecurity:** Phishing simulations, Security incident reports, Disaster recovery planning  
-- **Data Analysis:** Pandas, Matplotlib, Data visualization, Database queries  
-- **Tools & Platforms:** Git, GitHub, Flask, VS Code
+- **Languages:** Java, Python, SQL, JavaScript, HTML, CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Microsoft Suite, Jira, Slack
 
 ---
 
 ## 📂 Projects
 Here are some of my projects (full repositories linked):
 
-- **[Phishing Simulation](https://github.com/zohaib123/phishing-simulation)** – Simulated phishing attacks and analyzed security awareness.  
-- **[Disaster Recovery Plan](https://github.com/zohaib123/disaster-recovery)** – Created RTO/RPO strategies and recovery procedures.  
-- **[Squirrel Census Data Analysis](https://github.com/zohaib123/squirrel-census)** – Imported and analyzed wildlife data using Python & MySQL.  
-- **[Weather Data App](https://github.com/zohaib123/weather-app)** – Predicted weather trends using rolling averages.  
-- **[Cryptocurrency Tracker](https://github.com/zohaib123/crypto-tracker)** – Real-time crypto price tracking and visualization.
+WIP
 
 ---
 
 ## 📫 How to reach me
-- **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)  
-- **GitHub:** [github.com/zohaib123](https://github.com/zohaib123)  
-- **LinkedIn:** [linkedin.com/in/zohaib](https://linkedin.com/in/zohaib)
+- **Email:** [your-email@gmail.com](mailto:zohaibmuhammad08l@gmail.com)    
+- **LinkedIn:** [linkedin.com/in/zohaib](https://linkedin.com/in/zm08)
 
 ---
 
